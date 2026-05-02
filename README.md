@@ -8,3 +8,4 @@ Vecna Free Özellik Listesi:
 
 -AntiBot: Sunucudaki botları ayırt eder, hilenin onlara çalışmasını engeller.
 
+** OYUNU TAM EKRANDA OYNUYORSANIZ F11 KÜÇÜK EKRANA ALIP TEKRAR F11 BASIP TAM EKRANA ALMALISINIZ AKSI TAKDIRDE HILE MENUSU GELMEYEBİLİR! **
